@@ -1,0 +1,9 @@
+D:\bawmy się\apka na zaliczenie - proba #1\Apka\Apka\bin\Debug\Apka.exe.config
+D:\bawmy się\apka na zaliczenie - proba #1\Apka\Apka\bin\Debug\Apka.exe
+D:\bawmy się\apka na zaliczenie - proba #1\Apka\Apka\bin\Debug\Apka.pdb
+D:\bawmy się\apka na zaliczenie - proba #1\Apka\Apka\obj\Debug\Apka.csprojResolveAssemblyReference.cache
+D:\bawmy się\apka na zaliczenie - proba #1\Apka\Apka\obj\Debug\Apka.Form1.resources
+D:\bawmy się\apka na zaliczenie - proba #1\Apka\Apka\obj\Debug\Apka.Properties.Resources.resources
+D:\bawmy się\apka na zaliczenie - proba #1\Apka\Apka\obj\Debug\Apka.csproj.GenerateResource.Cache
+D:\bawmy się\apka na zaliczenie - proba #1\Apka\Apka\obj\Debug\Apka.exe
+D:\bawmy się\apka na zaliczenie - proba #1\Apka\Apka\obj\Debug\Apka.pdb
